@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Converter",
+  "description": "A modern web application to compress and convert images into different formats using the power of Google Gemini. Upload an image, choose your desired format and quality, and let AI handle the conversion.",
+  "requestFramePermissions": []
+}
